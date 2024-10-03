@@ -21,3 +21,5 @@ This is a real-time multiplayer chess game implemented using Socket.IO for real-
 2. **Install dependencies**: npm install
 3. **Start the server**: npm start
 4. *Open your browser* and navigate to http://localhost:3000
+![chess](https://github.com/user-attachments/assets/34df2fb9-3d24-4ace-a8c4-c35050fdad20)
+
